@@ -1,0 +1,386 @@
+{
+  "sessions": [
+    {
+      "session_id": 1,
+      "description": "I have to implement Google Login and send our calendar schedule to Google Calendar or receive schedule from Google Calendar."
+    },
+    {
+      "session_id": 2,
+      "description": "I am currently studying for Deep Neural Network finals. The course covers mathematical foundations and newer models such as Attention, GAN, LSTM, RLHF, and seq2seq, but does not focus on practical implementation."
+    },
+    {
+      "session_id": 3,
+      "description": "I am currently studying for Cloud Computing finals. We learnt about Kubernetes, and CI/CD with GitHub Actions plus Terraform IaC. While studying, I also have to implement toy examples from the lecture for further understanding."
+    },
+    {
+      "session_id": 4,
+      "description": "I have to implement a fine-tuned transformer model which classifies if the current URL visit is valid based on the session context given by the user."
+    },
+    {
+      "session_id": 5,
+      "description": "I have to write about a paper to persuade that banning smoking at all is beneficial and does not violate human rights."
+    }
+  ],
+  "urls": [
+    {
+      "id": 1,
+      "url": "https://www.youtube.com/",
+      "session_fit": "*",
+      "title": "YouTube"
+    },
+    {
+      "id": 2,
+      "url": "https://www.wikipedia.org/",
+      "session_fit": "*",
+      "title": "Wikipedia"
+    },
+    {
+      "id": 3,
+      "url": "https://www.google.com/",
+      "session_fit": "*",
+      "title": "Google"
+    },
+    {
+      "id": 4,
+      "url": "https://chatgpt.com/",
+      "session_fit": "x",
+      "title": "ChatGPT"
+    },
+    {
+      "id": 5,
+      "url": "https://store.steampowered.com/",
+      "session_fit": "x",
+      "title": "Welcome to Steam"
+    },
+    {
+      "id": 6,
+      "url": "https://www.tiktok.com/",
+      "session_fit": "x",
+      "title": "TikTok - Make Your Day"
+    },
+    {
+      "id": 7,
+      "url": "https://www.youtube.com/watch?v=c3guhZL477Q",
+      "session_fit": "x",
+      "title": "Overwatch 2 | New Hero 'Vendetta' Gameplay Trailer - YouTube"
+    },
+    {
+      "id": 8,
+      "url": "https://blog.naver.com/mindaily0/222403724996",
+      "session_fit": "x",
+      "title": "시험기간 벼락치기 꿀팁 (A+ 받는 법) : 네이버 블로그"
+    },
+    {
+      "id": 9,
+      "url": "https://www.youtube.com/watch?v=wLXFynJCoF4",
+      "session_fit": "x",
+      "title": "study with me 🌇 sunset in tokyo / calm piano / 1 hour - YouTube"
+    },
+    {
+      "id": 10,
+      "url": "https://www.notion.so/templates/student-dashboard",
+      "session_fit": "x",
+      "title": "Student dashboard 2025 Template | Notion Marketplace"
+    },
+    {
+      "id": 11,
+      "url": "https://developers.google.com/identity/siwg",
+      "session_fit": "1",
+      "title": "Sign in with Google  |  Google for Developers"
+    },
+    {
+      "id": 12,
+      "url": "https://developers.google.com/workspace/calendar/api/quickstart/js",
+      "session_fit": "1",
+      "title": "JavaScript quickstart  |  Google Calendar  |  Google for Developers"
+    },
+    {
+      "id": 13,
+      "url": "https://www.youtube.com/watch?v=K2JD61PZ-8U",
+      "session_fit": "1",
+      "title": "Node.js App with Google Calendar API - YouTube"
+    },
+    {
+      "id": 14,
+      "url": "https://stackoverflow.com/questions/45644039/google-calendar-api-403-error",
+      "session_fit": "1",
+      "title": "html - Google Calendar API - 403 error - Stack Overflow"
+    },
+    {
+      "id": 15,
+      "url": "https://goteleport.com/blog/how-oauth-authentication-works/",
+      "session_fit": "1",
+      "title": "What is OAuth 2.0? How Does it Work? | Teleport"
+    },
+    {
+      "id": 16,
+      "url": "https://falsy.me/%EA%B5%AC%EA%B8%80-%EC%BA%98%EB%A6%B0%EB%8D%94-api-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-for-node-js/",
+      "session_fit": "1",
+      "title": "[Node.js] 구글 캘린더(Google Calendar) API 사용하기"
+    },
+    {
+      "id": 17,
+      "url": "https://cloud.google.com/identity",
+      "session_fit": "x",
+      "title": "Cloud Identity  |  Google Cloud"
+    },
+    {
+      "id": 18,
+      "url": "https://www.wired.com/story/how-to-use-google-passkeys",
+      "session_fit": "x",
+      "title": "How to Use Google Passkeys | WIRED"
+    },
+    {
+      "id": 19,
+      "url": "https://support.google.com/accounts/answer/46526",
+      "session_fit": "x",
+      "title": "Secure a hacked or compromised Google Account - Google Account Help"
+    },
+    {
+      "id": 20,
+      "url": "https://meta.stackexchange.com/questions/268482/403-forbidden-error-when-attempting-to-log-into-stackexchange-com",
+      "session_fit": "x",
+      "title": "403 Forbidden error when attempting to log into stackexchange.com - Meta Stack Exchange"
+    },
+    {
+      "id": 21,
+      "url": "https://cs231n.github.io/optimization-2/",
+      "session_fit": "2",
+      "title": "CS231n Convolutional Neural Networks for Visual Recognition"
+    },
+    {
+      "id": 22,
+      "url": "https://dgkim5360.tistory.com/entry/understanding-long-short-term-memory-lstm-kr",
+      "session_fit": "2",
+      "title": "Long Short-Term Memory (LSTM) 이해하기"
+    },
+    {
+      "id": 23,
+      "url": "https://sjh9708.tistory.com/230",
+      "session_fit": "2",
+      "title": "[딥러닝] 기계 번역 : Seq2Seq와 Attention (+ 모델 학습시켜 다국어 번역해보기)"
+    },
+    {
+      "id": 24,
+      "url": "https://nlpinkorean.github.io/illustrated-transformer/",
+      "session_fit": "2",
+      "title": "The Illustrated Transformer - NLP in Korean"
+    },
+    {
+      "id": 25,
+      "url": "https://huyenchip.com/2023/05/02/rlhf.html",
+      "session_fit": "2",
+      "title": "RLHF: Reinforcement Learning from Human Feedback"
+    },
+    {
+      "id": 26,
+      "url": "https://www.kaggle.com/code/mlvprasad/pytorch-in-depth-course-2023-for-indian-kaggler",
+      "session_fit": "x",
+      "title": "PYTORCH IN-DEPTH COURSE 2023 - for Indian Kaggler"
+    },
+    {
+      "id": 27,
+      "url": "https://medium.com/data-science/how-to-build-a-dcgan-with-pytorch-31bfbf2ad96a",
+      "session_fit": "x",
+      "title": "How to Build a DCGAN with PyTorch | by Corneille | Data Science | Medium"
+    },
+    {
+      "id": 28,
+      "url": "https://dhruvpadhiyar.medium.com/how-to-deploy-your-deep-learning-model-free-on-heroku-fastapi-pytorch-fastai-heroku-d45b6c77f64b",
+      "session_fit": "x",
+      "title": "How to Deploy your Deep Learning Model Free on Heroku| FastAPI | Pytorch | FastAI"
+    },
+    {
+      "id": 29,
+      "url": "https://data-flair.training/blogs/deep-learning-project-ideas/",
+      "session_fit": "x",
+      "title": "Top 20 Deep Learning Project Ideas for Beginners to Pros - DataFlair"
+    },
+    {
+      "id": 30,
+      "url": "https://www.aeccglobal.com/advice/10-best-ai-tools-for-students",
+      "session_fit": "x",
+      "title": "10 Best AI Tools for Students"
+    },
+    {
+      "id": 31,
+      "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/explore/explore-intro/",
+      "session_fit": "3",
+      "title": "View Pods and Nodes | Kubernetes"
+    },
+    {
+      "id": 32,
+      "url": "https://docs.github.com/actions/quickstart",
+      "session_fit": "3",
+      "title": "Quickstart for GitHub Actions - GitHub Docs"
+    },
+    {
+      "id": 33,
+      "url": "https://developer.hashicorp.com/terraform/tutorials/aws-get-started/infrastructure-as-code",
+      "session_fit": "3",
+      "title": "Infrastructure as Code | Terraform | HashiCorp Developer"
+    },
+    {
+      "id": 34,
+      "url": "https://www.freecodecamp.org/news/learn-to-use-github-actions-step-by-step-guide/",
+      "session_fit": "3",
+      "title": "How to Use GitHub Actions – A Step-by-Step Guide"
+    },
+    {
+      "id": 35,
+      "url": "https://velog.io/@bellship24/%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B8%B0-Terraform-docs-AWS-01.-What-is-Infrastructure-as-Code-with-Terraform",
+      "session_fit": "3",
+      "title": "[공식문서 공부하기] Terraform docs (AWS) - 01. What is Infrastructure as Code with Terraform?"
+    },
+    {
+      "id": 36,
+      "url": "https://www.jenkins.io/doc/book/pipeline/",
+      "session_fit": "x",
+      "title": "Pipeline"
+    },
+    {
+      "id": 37,
+      "url": "https://devopscube.com/jenkins-pipeline-as-code/",
+      "session_fit": "x",
+      "title": "Jenkins Pipeline Tutorial For Beginners: Pipeline as Code"
+    },
+    {
+      "id": 38,
+      "url": "https://aws.amazon.com/lambda/getting-started/",
+      "session_fit": "x",
+      "title": "AWS Lambda – Getting Started"
+    },
+    {
+      "id": 39,
+      "url": "https://www.datacamp.com/tutorial/aws-lambda",
+      "session_fit": "x",
+      "title": "Getting Started with AWS Lambda: A Step-by-Step Tutorial"
+    },
+    {
+      "id": 40,
+      "url": "https://newrelic.com/blog/best-practices/kubernetes-clusters-nodes-and-pods",
+      "session_fit": "3",
+      "title": "Kubernetes Application Monitoring: Clusters, Nodes, and Pods | New Relic"
+    },
+    {
+      "id": 41,
+      "url": "https://huggingface.co/docs/transformers/en/tasks/sequence_classification",
+      "session_fit": "4",
+      "title": "Text classification - Hugging Face"
+    },
+    {
+      "id": 42,
+      "url": "https://www.kaggle.com/code/atechnohazard/news-classification-using-huggingface-distilbert",
+      "session_fit": "4",
+      "title": "News classification using HuggingFace DistilBert"
+    },
+    {
+      "id": 43,
+      "url": "https://debuggercafe.com/text-classification-using-transformer-encoder-in-pytorch/",
+      "session_fit": "4",
+      "title": "Text Classification using Transformer Encoder in PyTorch"
+    },
+    {
+      "id": 44,
+      "url": "https://amanxai.com/2025/07/22/text-classification-pipeline-with-hugging-face-transformers/",
+      "session_fit": "4",
+      "title": "Text Classification Pipeline with Hugging Face Transformers"
+    },
+    {
+      "id": 45,
+      "url": "https://colab.research.google.com/github/pytorch-ignite/pytorch-ignite.ai/blob/gh-pages/tutorials/beginner/02-transformers-text-classification.ipynb",
+      "session_fit": "4",
+      "title": "transformers-text-classification.ipynb - Colaboratory"
+    },
+    {
+      "id": 46,
+      "url": "https://platform.openai.com/docs/guides/text",
+      "session_fit": "x",
+      "title": "Text generation - OpenAI API"
+    },
+    {
+      "id": 47,
+      "url": "https://medium.com/@vikashsinghy2k/how-to-build-llm-powered-ai-apps-using-langchain-and-chatgpt-step-by-step-guide-part-1-153d7c3d96b1",
+      "session_fit": "x",
+      "title": "How to build LLM powered AI apps using LangChain and ChatGPT"
+    },
+    {
+      "id": 48,
+      "url": "https://realpython.com/build-llm-rag-chatbot-with-langchain/",
+      "session_fit": "x",
+      "title": "Build an LLM RAG Chatbot With LangChain – Real Python"
+    },
+    {
+      "id": 49,
+      "url": "https://developer.dataiku.com/12/tutorials/machine-learning/genai/nlp/gpt-zero-shot-clf/index.html",
+      "session_fit": "x",
+      "title": "GPT Zero-Shot Classification | Dataiku Developer"
+    },
+    {
+      "id": 50,
+      "url": "https://platform.openai.com/docs/concepts",
+      "session_fit": "x",
+      "title": "Model concepts - OpenAI API"
+    },
+    {
+      "id": 51,
+      "url": "https://www.who.int/teams/health-promotion/tobacco-control",
+      "session_fit": "5",
+      "title": "Tobacco control - World Health Organization (WHO)"
+    },
+    {
+      "id": 52,
+      "url": "https://www.ohchr.org/en/health/right-health-tobacco-control",
+      "session_fit": "5",
+      "title": "Right to Health & Tobacco Control | OHCHR"
+    },
+    {
+      "id": 53,
+      "url": "https://tobaccocontrol.bmj.com/content/24/3/238",
+      "session_fit": "5",
+      "title": "Human rights and ethical considerations for a tobacco-free generation"
+    },
+    {
+      "id": 54,
+      "url": "https://archive.cdc.gov/www_cdc_gov/tobacco/secondhand-smoke/protection/improve-health.htm",
+      "session_fit": "5",
+      "title": "Health Problems Caused by Secondhand Smoke - CDC"
+    },
+    {
+      "id": 55,
+      "url": "https://www.tobaccofreekids.org/us-resources/fact-sheet/smoke-free-laws-work",
+      "session_fit": "5",
+      "title": "Smoke-Free Laws Work - Campaign for Tobacco-Free Kids"
+    },
+    {
+      "id": 56,
+      "url": "https://tobaccocontrol.bmj.com/content/27/1/3",
+      "session_fit": "5",
+      "title": "A missing voice: the human rights of children to a tobacco-free environment"
+    },
+    {
+      "id": 57,
+      "url": "https://www.theguardian.com/society/2025/jun/24/tobacco-exposure-killed-more-than-7m-people-worldwide-2023-study",
+      "session_fit": "5",
+      "title": "Tobacco exposure killed more than 7m people in 2023, study finds | The Guardian"
+    },
+    {
+      "id": 58,
+      "url": "https://www.who.int/initiatives/SAFER/alcohol-advertising",
+      "session_fit": "x",
+      "title": "SAFER - Alcohol advertising"
+    },
+    {
+      "id": 59,
+      "url": "https://petrieflom.law.harvard.edu/2020/02/28/why-soda-taxes-an-awesome-public-health-policy-are-rare/",
+      "session_fit": "x",
+      "title": "Why Soda Taxes, an Awesome Public Health Policy, Are Rare - Bill of Health"
+    },
+    {
+      "id": 60,
+      "url": "https://www.mccabecentre.org/publications/using-human-rights-law-to-progress-alcohol-control.html",
+      "session_fit": "x",
+      "title": "Using human rights law to progress alcohol control - McCabe Centre"
+    }
+  ]
+}
